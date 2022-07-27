@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richie19
-- 👀 I’m interested in Machine Learning techniques
+- 👀 I’m interested in System Design , coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Git
 - 📫 How to reach me : richie19rich@gmail.com
