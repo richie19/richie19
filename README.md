@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richie19
-- 👀 I’m interested in System Design , coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Tech products , System Design , Cloud computing
+- 🌱 I’m currently learning Javascript , Google Cloud Concepts
 - 💞️ I’m looking to collaborate on Git
 - 📫 How to reach me : richie19rich@gmail.com
 <!---
